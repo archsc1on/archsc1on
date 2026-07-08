@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://s4.ezgif.com/tmp/ezgif-4da2b39fbbbeee6a.gif" alt="ByeBye" width="40" style="border-radius: 50%;" />
+  <img src="https://i.ibb.co.com/LX3JmSjs/output-onlinegiftools.gif" alt="Hai!" width="40" style="border-radius: 50%;" />
 </div>
+
   <p><strong>Ngoding Yang Penting ❌ Yang Penting Ngoding ✔️</strong></p>
 
 - 📖 **lagi Belajar** `NextJS`, `Lua`, and `Design`
