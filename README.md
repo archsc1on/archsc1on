@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Agent-Vestia%20Zeta-grey?style=for-the-badge&logo=virtual-youtuber&logoColor=white&color=c31a4a" alt="Vestia Zeta" />
-
-  <h1>Hi [👋](https://c.tenor.com/Yj4grvIBitkAAAAC/tenor.gif), I'm Dzaki</h1>
+  <img src="https://c.tenor.com/Yj4grvIBitkAAAAC/tenor.gif" alt="Vestia Zeta" width="120" style="border-radius: 50%;" />
+  <h1>I'm Dzaki</h1>
   <p><strong>A passionate Prompt Engineer from Indonesia</strong></p>
 
   <a href="https://github.com/archsc1on">
