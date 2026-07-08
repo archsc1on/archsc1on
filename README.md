@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co.com/LX3JmSjs/output-onlinegiftools.gif" alt="Hai!" width="40" style="border-radius: 50%;" />
+  <img src="https://i.ibb.co.com/tT9xgBj1/output-onlinegiftools.gif" alt="Hai!" width="40" style="border-radius: 50%;" />
 </div>
 
   <p><strong>Ngoding Yang Penting ❌ Yang Penting Ngoding ✔️</strong></p>
