@@ -1,6 +1,6 @@
 <img width="498" height="498" alt="image" src="https://github.com/user-attachments/assets/b67a2293-bd1a-4851-bcbd-0f83a14eba3b" /><div align="center">
   <img src="https://img.shields.io/badge/Agent-Vestia%20Zeta-grey?style=for-the-badge&logo=virtual-youtuber&logoColor=white&color=c31a4a" alt="Vestia Zeta" />
-  <img src="https://s4.ezgif.com/tmp/ezgif-4da2b39fbbbeee6a.gif" alt="Vestia Zeta" width="28" style="border-radius: 50%;" />
+  <img src="https://s4.ezgif.com/tmp/ezgif-4da2b39fbbbeee6a.gif" alt="ByeBye" width="28" style="border-radius: 50%;" />
   <h1>I'm Dzaki</h1>
   <p><strong>A passionate Prompt Engineer from Indonesia</strong></p>
 
